@@ -14,6 +14,7 @@ st.set_page_config(page_title="Diagnostic Classifier Evaluation Suite", layout="
 
 st.title("Diagnostic ML Classifier Evaluation Suite")
 st.markdown("**Name:** Ramanathan Sks &nbsp;&nbsp;|&nbsp;&nbsp; **BITS ID:** 2026ak05475")
+st.markdown("**GitHub Repo:** [https://github.com/RamanathanSks/2026ak05475_ml_assignment_2](https://github.com/RamanathanSks/2026ak05475_ml_assignment_2)")
 st.markdown(
     "Upload the test split (`test_data.csv`) and choose a pre-trained model to inspect live evaluation metrics, "
     "confusion matrix, and class-wise performance. Models are loaded from `model/` and **never retrained**."
