@@ -15,7 +15,7 @@ Build and evaluate an end-to-end binary classification system to predict whether
 ## c. GitHub Repository Link
 
 - **Repository URL:** https://github.com/RamanathanSks/2026ak05475_ml_assignment_2
-- **Live Streamlit App URL:** `<INSERT_YOUR_STREAMLIT_CLOUD_LINK_HERE>`
+- **Live Streamlit App URL:** https://2026ak05475mlassignment.streamlit.app/
 
 ## d. Models Used & Evaluation Metrics Comparison Table
 
